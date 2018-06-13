@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset='utf-8'>
+</head>
+<body>
+	<form method="POST">
+		<p><input type="text" name="email"></p>
+		<p><input type="password" name="senha"></p>
+		<button type="submit">Enviar</button>
+	</form>
+</body>
+</html>

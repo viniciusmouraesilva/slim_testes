@@ -1,0 +1,14 @@
+{
+	"require": {
+		"slim/slim": "^3.9",
+		"slim/php-view": "^2.2",
+		"vinicinho052/postandgetdatareceipt": "^2.0",
+		"monolog/monolog": "^1.23",
+		"filp/whoops": "^2.1"
+	},  
+	"autoload": {
+		"psr-4": {
+			"": "classes/"
+		}			
+	}
+}
